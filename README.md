@@ -5,7 +5,7 @@
 - 🏫 I'm currently studying CS at Gdańsk University of Technology
 - 🌱 I’m currently learning C++ and C#
 - 🔎 I’m looking for a summer internship
-- 💬 Ask me about ...
 
 ### Contact:
 - ✉️ E-mail: b.p.kopania@gmail.com
+- LinkedIn: [ln/bartosz-kopania](www.linkedin.com/in/bartosz-kopania)
