@@ -9,3 +9,4 @@
 ### Contact:
 - ✉️ E-mail: b.p.kopania@gmail.com
 - LinkedIn: [ln/bartosz-kopania](www.linkedin.com/in/bartosz-kopania)
+- CV [polish](https://github.com/bpkopania/bpkopania/blob/main/BartoszKopania.pdf)
